@@ -234,10 +234,6 @@ Light Skills 不是让 AI 闷头从头跑到尾，而是把科研拆成可审计
 |:-:|:-:|
 | <img src="assets/wechat-donation.jpg" alt="微信收款码" width="220"> | <img src="assets/wechat-official-account.jpg" alt="微信公众号二维码" width="220"> |
 
-## Star 趋势
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Light0305/Light-skills&type=Date)](https://www.star-history.com/#Light0305/Light-skills&Date)
-
 ## 许可证
 
 本项目使用 [MIT License](LICENSE)。

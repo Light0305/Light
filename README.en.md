@@ -233,6 +233,3 @@ The gallery below is generated with Python and R.
 
 This project is released under the [MIT License](LICENSE).
 
-## Star history
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Light0305/Light-skills&type=Date)](https://www.star-history.com/#Light0305/Light-skills&Date)
